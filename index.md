@@ -8,7 +8,7 @@
       text-align: center;
       margin-top: 100px;
     }
-    html{
+    html, body{
       background-color: #FFC8C8;
     }
     h1 {
