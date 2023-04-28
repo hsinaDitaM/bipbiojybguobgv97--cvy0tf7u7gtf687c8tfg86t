@@ -8,6 +8,9 @@
       text-align: center;
       margin-top: 100px;
     }
+    html{
+      background-color: #FFC8C8;
+    }
     h1 {
       font-size: 4rem;
       color: #660000;
