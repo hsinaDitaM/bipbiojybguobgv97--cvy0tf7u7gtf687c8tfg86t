@@ -8,20 +8,17 @@
       text-align: center;
       margin-top: 100px;
     }
-
     h1 {
       font-size: 4rem;
       color: #660000;
       text-shadow: 2px 2px #FF9999;
     }
-
     p {
       font-size: 2rem;
       color: #660000;
       text-shadow: 1px 1px #FF9999;
       margin-top: 50px;
     }
-
     input[type="text"] {
       padding: 10px;
       font-size: 2rem;
@@ -29,7 +26,6 @@
       border-radius: 5px;
       margin-top: 30px;
     }
-
     button {
       padding: 10px;
       font-size: 2rem;
@@ -40,13 +36,11 @@
       margin-top: 30px;
       cursor: pointer;
     }
-
     button:hover {
       background-color: #FF9999;
       color: #660000;
       transition: background-color 0.5s ease;
     }
-
     p#result {
       font-size: 2rem;
       color: #660000;
